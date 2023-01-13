@@ -1,9 +1,0 @@
-2023-01-13 11:14:10,469 INFO o.s.w.s.DispatcherServlet [main] Initializing Servlet 'pulse'
-2023-01-13 11:14:11,541 INFO o.s.s.w.DefaultSecurityFilterChain [main] Will secure any request with [org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@245a90b1, org.springframework.security.web.context.SecurityContextPersistenceFilter@56a69c47, org.springframework.security.web.header.HeaderWriterFilter@6479b4cb, org.springframework.security.web.authentication.logout.LogoutFilter@746f1505, org.springframework.security.web.authentication.UsernamePasswordAuthenticationFilter@466a5b80, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@388b9799, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@7fb84ef7, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@6b438782, org.springframework.security.web.session.SessionManagementFilter@69fc5803, org.springframework.security.web.access.ExceptionTranslationFilter@cfe7be3, org.springframework.security.web.access.intercept.FilterSecurityInterceptor@c88a842]
-2023-01-13 11:14:11,574 INFO o.a.g.t.p.i.PulseAppListener [main] Context Initialized.. 
-2023-01-13 11:14:11,574 INFO o.a.g.t.p.i.ClassPathPropertiesFileLoader [main] GemFireVersion.properties File Found 
-2023-01-13 11:14:11,574 INFO o.a.g.t.p.i.PulseAppListener [main] Pulse Version: 9.15.2 root 0
-2023-01-13 11:14:11,574 INFO o.a.g.t.p.i.PulseAppListener [main] Checking whether Pulse is running in embedded mode..
-2023-01-13 11:14:11,574 INFO o.a.g.t.p.i.PulseAppListener [main] Pulse is running in Embedded Mode..
-2023-01-13 11:14:11,576 INFO o.s.w.s.DispatcherServlet [main] Completed initialization in 1103 ms
-2023-01-13 11:28:26,299 INFO o.a.g.t.p.i.PulseAppListener [Shutdown Disconnector1] Context Destroyed.. /pulse
